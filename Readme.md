@@ -14,7 +14,7 @@ A python-based data processing tool that aggregates regional tech job market dat
 - **Version Control:** Git
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ## How To Run
 1. Install dependencies: `pip install pandas openpyxl`
